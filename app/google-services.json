@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570445739269",
+    "project_id": "digitalnomadworks",
+    "storage_bucket": "digitalnomadworks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570445739269:android:efae9c8c6eff33e8d8336c",
+        "android_client_info": {
+          "package_name": "com.dnw.nomadworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570445739269-k8eitq9g7v1gt6bm6prko3jh9iag6u9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGtXS-QrykqCvdedD5QyraiRLewihdq6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570445739269-k8eitq9g7v1gt6bm6prko3jh9iag6u9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
